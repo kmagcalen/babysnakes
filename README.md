@@ -1,2 +1,2 @@
 # babysnakes
-Python Exercises
+Beginner level Python Exercises
